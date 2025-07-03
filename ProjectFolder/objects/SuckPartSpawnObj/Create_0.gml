@@ -1,0 +1,3 @@
+suckPartStruct = {
+	destination : parentObj
+}

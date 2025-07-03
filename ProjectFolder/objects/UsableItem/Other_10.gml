@@ -1,0 +1,1 @@
+CollectItem(itemID, worth, 1);

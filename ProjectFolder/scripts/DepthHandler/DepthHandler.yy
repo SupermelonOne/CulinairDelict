@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DepthHandler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DepthHandler",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

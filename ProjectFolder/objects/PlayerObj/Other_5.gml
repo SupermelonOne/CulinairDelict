@@ -1,0 +1,1 @@
+global.closestChest = pointer_null;

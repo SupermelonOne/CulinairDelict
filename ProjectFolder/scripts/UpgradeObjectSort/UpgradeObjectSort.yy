@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"UpgradeObjectSort",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"UpgradeObjectSort",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
